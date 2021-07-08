@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhimanyusingh00
 - 👀 I’m interested in programming and open source projects
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning Python,C,HTMl,CSS.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me mail me at abhiamnyusingh.as9198@gmail.com
 
