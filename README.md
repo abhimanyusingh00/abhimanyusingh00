@@ -11,7 +11,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8250DF&height=3&width=1000" width="100%"/>
 
 ```bash
 abhimanyu@ml-engineer:~$ whoami
@@ -26,38 +26,18 @@ abhimanyu@ml-engineer:~$ ./ship_model.sh --pipeline full
 > Status: production-ready 🟢
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8250DF&height=3&width=1000" width="100%"/>
 
 ## 🧬 How I Build ML Systems
 
 Not just notebooks — I care about what happens *after* the model trains.
 
-```mermaid
-flowchart LR
-    A[Raw Data] --> B[Feature Engineering]
-    B --> C[Model Training]
-    C --> D[Experiment Tracking]
-    D --> E[Model Registry]
-    E --> F[Docker Container]
-    F --> G[CI/CD Pipeline]
-    G --> H[Cloud Deployment]
-    H --> I[FastAPI Inference API]
-    I --> J[Monitoring & Logging]
-    J -.->|Retrain on drift| B
+<div align="center">
+<img src="https://mermaid.ink/img/Zmxvd2NoYXJ0IExSCiAgICBBW1JhdyBEYXRhXSAtLT4gQltGZWF0dXJlIEVuZ2luZWVyaW5nXQogICAgQiAtLT4gQ1tNb2RlbCBUcmFpbmluZ10KICAgIEMgLS0+IERbRXhwZXJpbWVudCBUcmFja2luZ10KICAgIEQgLS0+IEVbTW9kZWwgUmVnaXN0cnldCiAgICBFIC0tPiBGW0RvY2tlciBDb250YWluZXJdCiAgICBGIC0tPiBHW0NJL0NEIFBpcGVsaW5lXQogICAgRyAtLT4gSFtDbG91ZCBEZXBsb3ltZW50XQogICAgSCAtLT4gSVtGYXN0QVBJIEluZmVyZW5jZSBBUEldCiAgICBJIC0tPiBKW01vbml0b3JpbmcgJiBMb2dnaW5nXQogICAgSiAtLi0+fFJldHJhaW4gb24gZHJpZnR8IEIK?theme=dark&bgColor=0d1117#gh-dark-mode-only" alt="ML pipeline diagram"/>
+<img src="https://mermaid.ink/img/Zmxvd2NoYXJ0IExSCiAgICBBW1JhdyBEYXRhXSAtLT4gQltGZWF0dXJlIEVuZ2luZWVyaW5nXQogICAgQiAtLT4gQ1tNb2RlbCBUcmFpbmluZ10KICAgIEMgLS0+IERbRXhwZXJpbWVudCBUcmFja2luZ10KICAgIEQgLS0+IEVbTW9kZWwgUmVnaXN0cnldCiAgICBFIC0tPiBGW0RvY2tlciBDb250YWluZXJdCiAgICBGIC0tPiBHW0NJL0NEIFBpcGVsaW5lXQogICAgRyAtLT4gSFtDbG91ZCBEZXBsb3ltZW50XQogICAgSCAtLT4gSVtGYXN0QVBJIEluZmVyZW5jZSBBUEldCiAgICBJIC0tPiBKW01vbml0b3JpbmcgJiBMb2dnaW5nXQogICAgSiAtLi0+fFJldHJhaW4gb24gZHJpZnR8IEIK#gh-light-mode-only" alt="ML pipeline diagram"/>
+</div>
 
-    style A fill:#1f6feb,stroke:#58a6ff,color:#fff
-    style B fill:#1f6feb,stroke:#58a6ff,color:#fff
-    style C fill:#9e6a03,stroke:#e3b341,color:#fff
-    style D fill:#9e6a03,stroke:#e3b341,color:#fff
-    style E fill:#9e6a03,stroke:#e3b341,color:#fff
-    style F fill:#1a7f37,stroke:#3fb950,color:#fff
-    style G fill:#1a7f37,stroke:#3fb950,color:#fff
-    style H fill:#1a7f37,stroke:#3fb950,color:#fff
-    style I fill:#8250df,stroke:#a371f7,color:#fff
-    style J fill:#8250df,stroke:#a371f7,color:#fff
-```
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8250DF&height=3&width=1000" width="100%"/>
 
 ## 🧰 Tech Arsenal
 
@@ -119,7 +99,7 @@ flowchart LR
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8250DF&height=3&width=1000" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -129,7 +109,7 @@ flowchart LR
 | **[Project Name](https://github.com/abhimanyusingh00/repo)** | One-line description | `PyTorch` `AWS` |
 | **[Project Name](https://github.com/abhimanyusingh00/repo)** | One-line description | `Spark` `Airflow` |
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8250DF&height=3&width=1000" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -146,7 +126,7 @@ flowchart LR
 <img src="https://github-profile-trophy.vercel.app/?username=abhimanyusingh00&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8250DF&height=3&width=1000" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -154,7 +134,5 @@ flowchart LR
 <img src="https://raw.githubusercontent.com/abhimanyusingh00/abhimanyusingh00/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 <img src="https://raw.githubusercontent.com/abhimanyusingh00/abhimanyusingh00/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
